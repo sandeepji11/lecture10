@@ -1,0 +1,7 @@
+LAB 6 LOGBOOK - San - 99
+SETUP: my working directory is lab
+T1 prediction: I think ls / will show about directory items
+T1: /bin holds ???
+T1: /dev holds ???
+T1: / means ??? , ~ means ??? , . means ???
+T1: the OS groups files by ???
